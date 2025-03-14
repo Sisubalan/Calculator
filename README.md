@@ -20,7 +20,7 @@ A simple UI design calculator built using HTML, CSS, and JavaScript.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd simple-calculator
+   cd calculator
    ```
 3. Open `index.html` in your browser.
 
